@@ -1,6 +1,6 @@
 {
   "name": "boldkit",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "A neubrutalism React/Vue component library built on shadcn/ui - Bold, raw, beautiful.",
   "main": "src/index.ts",
   "scripts": {
